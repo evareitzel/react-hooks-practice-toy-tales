@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 22
     },
     {
       "id": 2,
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Caboodle",
+      "image": "https://cdn.shopify.com/s/files/1/1320/6585/products/Caboodle-Pretty-In-Petite-Lavender-Pink_f5d87a1a-4d64-4334-b07d-fa6967292b7a_medium.jpg?v=1645194238",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
